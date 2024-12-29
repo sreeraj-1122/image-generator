@@ -1,6 +1,6 @@
 # Image-Generator Application 
 
-[Live](https://imagify-qdyb.onrender.com/)   
+#### [Live Link](https://imagify-qdyb.onrender.com/)   
 
 It is a website built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) that empowers users to create breathtaking visuals from text prompts. Whether you're an artist, designer, or dreamer, our platform makes it easy to bring your imagination to life.
 
