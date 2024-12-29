@@ -1,6 +1,6 @@
 # Image-Generator Application 
 
-![Live](https://imagify-qdyb.onrender.com/)   
+[Live](https://imagify-qdyb.onrender.com/)   
 
 It is a website built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) that empowers users to create breathtaking visuals from text prompts. Whether you're an artist, designer, or dreamer, our platform makes it easy to bring your imagination to life.
 
@@ -10,16 +10,6 @@ It is a website built using the MERN stack (MongoDB, Express.js, React.js, and N
 - **Instant Results**: Watch the magic unfold in seconds.
 - **Easy Sharing**: Download or share your creations directly from the platform.
 - **User-Friendly**: Designed with simplicity in mind, AI ImageGen is intuitive for everyone.
-
----
-https://imagify-qdyb.onrender.com/
-## AI-Generated Samples
-
-Here are some example images generated with AI ImageGen:
-
-![Sample 1](https://via.placeholder.com/150.png?text=Sample+1)
-![Sample 2](https://via.placeholder.com/150.png?text=Sample+2)
-![Sample 3](https://via.placeholder.com/150.png?text=Sample+3)
 
 ---
 
